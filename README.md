@@ -20,7 +20,7 @@ below are some screenshots:
     <th>CreatePost[Desktop|Light]</th>
   <tr>
     <td> <img src="./screenshots/create-com-desk-dark.png" ></td>
-    <td><img src="./screenshots/create-com-mobile-dark.png"></td>
+    <td><img src="./screenshots/create-post-desk-light.png"></td>
   </tr>
   <tr>
     <th>HomePage[Mobile|Dark]</th>
