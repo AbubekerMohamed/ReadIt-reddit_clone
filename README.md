@@ -27,7 +27,7 @@ below are some screenshots:
     <th>CreateCommunity[Mobile|Dark]</th>
   <tr>
     <td> <img src="./screenshots/home-mobile-dark.png" ></td>
-    <td><img src="./screenshots/home-mobile-dark.png" ></td>
+    <td><img src="./screenshots/create-com-mobile-dark.png" ></td>
   </tr>
 </table>
 
