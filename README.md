@@ -2,7 +2,7 @@
 
 A Next.js reddit clone to showcase UI designing using chakra UI design, firebase backend as a service integration and general best practices for developing production ready apps.
 
-## Give it a start if you like it.
+## Give it a star if you like it.
 
 below are some screenshots:
 
