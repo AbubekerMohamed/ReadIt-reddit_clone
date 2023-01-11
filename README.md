@@ -31,4 +31,4 @@ below are some screenshots:
   </tr>
 </table>
 
-Visit live site @[readit.netlify.app](https://readit-redditclone.netlify.app/) // currently not working
+Visit live site @[vercel](https://read-it-reddit-clone-pfk4.vercel.app/)
