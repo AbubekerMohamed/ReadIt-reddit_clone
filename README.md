@@ -31,4 +31,4 @@ below are some screenshots:
   </tr>
 </table>
 
-Visit live site @[readit.netlify.app](https://readit.netlify.app/)
+Visit live site @[readit.netlify.app](https://readit-redditclone.netlify.app/) // currently not working
