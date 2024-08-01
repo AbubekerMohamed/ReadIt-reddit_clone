@@ -229,7 +229,7 @@ const Posts: React.FC<PostsProps> = ({
       const postsQuery = query(
         collection(firestore, "posts"),
         where("communityId", "==", communityData?.id!),
-        orderBy("createdAt", "desc")
+        orderBy("editedAt", "asc")
       );
       const postDocs = await getDocs(postsQuery);
       const posts = postDocs.docs.map((doc) => ({ id: doc.id, ...doc.data() }));
