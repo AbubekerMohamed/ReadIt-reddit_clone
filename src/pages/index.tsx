@@ -135,7 +135,7 @@ const Home: NextPage = () => {
 
       setPostStateValue((prev) => ({
         ...prev,
-        posts: posts as Post[],
+        posts: posts.reverse() as Post[],
       }));
     } catch (error: any) {
       console.log("getNoUserHomePosts error", error.message);
