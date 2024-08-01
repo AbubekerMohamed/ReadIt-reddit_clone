@@ -148,7 +148,7 @@ const Comments: React.FC<CommentsProps> = ({
       const commentsQuery = query(
         collection(firestore, "comments"),
         where("postId", "==", selectedPost.id),
-        orderBy("editedAt", "desc")
+        orderBy("createdAt", "desc")
       );
       const commentDocs = await getDocs(commentsQuery);
       const comments = commentDocs.docs.map((doc) => ({
