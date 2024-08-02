@@ -106,7 +106,7 @@ const Home: NextPage = () => {
 
       setPostStateValue((prev) => ({
         ...prev,
-        posts: feedPosts,
+        posts: feedPosts.reverse(),
       }));
 
       // if not in any, get 5 communities ordered by number of members
